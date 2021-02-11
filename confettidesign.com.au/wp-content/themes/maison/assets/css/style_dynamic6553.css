@@ -1,0 +1,90 @@
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_content_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding-top: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_content_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner { padding-top: 40px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_h1_styles function */
+h1 { color: #929191;font-size: 30px;font-weight: 700;letter-spacing: 1px;text-transform: none;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_h2_styles function */
+h2 { color: #929191;font-size: 30px;font-weight: 500;letter-spacing: 1px;text-transform: none;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_h3_styles function */
+h3 { color: #929191;font-size: 26px;font-weight: 500;letter-spacing: 1px;text-transform: none;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_h4_styles function */
+h4 { color: #929191;font-size: 24px;line-height: 36px;text-transform: none;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_h5_styles function */
+h5 { color: #ca0043;font-size: 20px;letter-spacing: 1px;text-transform: none;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_h6_styles function */
+h6, .edgtf-countdown .countdown-row .countdown-section .countdown-period { color: #929191;text-transform: uppercase;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_text_styles function */
+p { font-size: 16px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/assets/custom-styles/general-custom-styles.php maison_edge_link_styles function */
+a, p a { color: #ca0043;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { font-size: 12px;line-height: 27px;background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 255, 255, 1);padding-top: 6px;padding-bottom: 6px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { font-size: 11px;padding-top: 0;padding-bottom: 0;height: 41px;line-height: 41px;padding-left: 12px;padding-right: 12px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { font-size: 12px;line-height: 27px;background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 255, 255, 1);padding-top: 6px;padding-right: 6px;padding-bottom: 6px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { font-size: 11px;padding-top: 0;padding-bottom: 0;height: 41px;line-height: 41px;background-color: rgba(65, 65, 65, 1);border-color: rgba(65, 65, 65, 1);padding-left: 12px;padding-right: 12px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 172px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { font-size: 12px;line-height: 30px;background-color: rgba(255, 255, 255, 1);border-color: rgba(229, 229, 229, 1);border-width: 1px;padding-top: 8px;padding-bottom: 5px;padding-left: 21px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(247, 247, 247, 1);border-color: rgba(229, 229, 229, 1);}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/contactform7/custom-styles/contact-form.php maison_edge_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-size: 11px;padding-top: 0;padding-bottom: 0;height: 48px;line-height: 48px;padding-left: 34px;padding-right: 34px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/footer/admin/custom-styles/footer-custom-styles.php maison_edge_footer_top_general_styles function */
+.edgtf-page-footer .edgtf-footer-top-holder { background-color: #f4f4f4;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/footer/admin/custom-styles/footer-custom-styles.php maison_edge_footer_bottom_general_styles function */
+.edgtf-page-footer .edgtf-footer-bottom-holder { background-color: #ca0043;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/types/header-minimal/admin/custom-styles/full-screen-menu-custom-styles.php maison_edge_fullscreen_menu_first_level_style function */
+nav.edgtf-fullscreen-menu > ul > li > a { font-size: 30px;line-height: 36px;font-weight: 600;letter-spacing: 3px;text-transform: uppercase;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/types/header-vertical/admin/custom-styles/header-vertical-custom-styles.php maison_edge_vertical_main_menu_styles function */
+.edgtf-header-vertical .edgtf-vertical-menu > ul > li > a { font-weight: 400;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/types/header-vertical/admin/custom-styles/header-vertical-custom-styles.php maison_edge_vertical_main_menu_styles function */
+.edgtf-header-vertical .edgtf-vertical-menu .second .inner > ul > li > a { text-transform: none;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/types/header-vertical/admin/custom-styles/header-vertical-custom-styles.php maison_edge_vertical_main_menu_styles function */
+.edgtf-header-vertical .edgtf-vertical-menu .second .inner ul li ul li a { text-transform: none;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php maison_edge_header_top_bar_styles function */
+.edgtf-top-bar-background { height: 87px;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/admin/custom-styles/header-custom-styles.php maison_edge_header_menu_area_styles function */
+.edgtf-page-header .edgtf-menu-area { background-color: rgba(255, 255, 255, .5);}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/admin/custom-styles/header-custom-styles.php maison_edge_header_logo_area_styles function */
+.edgtf-header-centered .edgtf-logo-area .edgtf-logo-wrapper { padding: ;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/header/admin/custom-styles/header-custom-styles.php maison_edge_main_menu_styles function */
+.edgtf-main-menu > ul > li > a { font-weight: 500;text-transform: uppercase;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/title/admin/custom-styles/title-custom-styles.php maison_edge_title_area_typography_style function */
+.edgtf-title-holder .edgtf-page-title { color: #ffffff;}
+
+/* generated in /home/s6930/html/wp-content/themes/maison/framework/modules/title/admin/custom-styles/title-custom-styles.php maison_edge_title_area_typography_style function */
+.edgtf-title-holder .edgtf-subtitle { color: #ffffff;font-weight: 300;text-transform: none;}
+
